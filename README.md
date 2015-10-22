@@ -8,13 +8,16 @@
 
 <div>Example:</div>
 
-<code class="highlight highlight-text-html-basic">$(document).ready(function() {
+<code class="highlight highlight-text-html-basic">
+
+$(document).ready(function() {
 	
                 $("#menu").animateScroll( {
                     
                 });
                 
             });
+
 </code>
 
 <div>There are 4 parameters that animateScroll accepts:</div>
@@ -29,7 +32,9 @@
 <div>An example of an initialisation with all parameters:</div>
 
 
-<code class="highlight highlight-text-html-basic">$(document).ready(function() {
+<code class="highlight highlight-text-html-basic">
+
+$(document).ready(function() {
 	
                 $("#menu").animateScroll( {
                     duration: "600",
@@ -39,6 +44,7 @@
                 });
                 
             });
+
 </code>
 
 <div>Meaning of parameters:</div>
