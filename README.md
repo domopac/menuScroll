@@ -9,6 +9,7 @@
 <div>Example:</div>
 
 <div class="highlight highlight-text-html-basic">
+<pre>
 
 $(document).ready(function() {
 	
@@ -18,6 +19,7 @@ $(document).ready(function() {
                 
             });
 
+</pre>
 </div>
 
 <div>There are 4 parameters that animateScroll accepts:</div>
@@ -33,6 +35,7 @@ $(document).ready(function() {
 
 
 <div class="highlight highlight-text-html-basic">
+<pre>
 
 $(document).ready(function() {
 	
@@ -45,6 +48,7 @@ $(document).ready(function() {
                 
             });
 
+</pre>
 </div>
 
 <div>Meaning of parameters:</div>
