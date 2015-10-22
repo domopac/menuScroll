@@ -2,7 +2,11 @@
 
 <div>menuScroll is a simple plugin to scroll smoth to an id.</div>
 
-<div>Required is to incorporate jQuery and create a container with the id menu with a elements in it.</div>
+<div>Required is:</div>
+
+<div>1. Incorporate jQuery </div>
+<div>2. Create a container with <span class="highlight highlight-text-html-basic"><pre>#menu</pre></span><div>
+<div>3. Put <span class="highlight highlight-text-html-basic"><pre><a></pre></span> elements into the container with <span class="highlight highlight-text-html-basic"><pre>#menu</pre></span></div>
 
 <div>Incorporate the menuScroll.js and initalize menuScroll on the element with id menu</div>
 
