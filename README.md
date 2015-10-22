@@ -7,8 +7,21 @@
 <div>Required is:</div>
 
 <div>1. Incorporate jQuery </div>
-<div>2. Create a container with <span class="highlight highlight-text-html-basic"><pre>#menu</pre></span><div>
-<div>3. Put <span class="highlight highlight-text-html-basic"><pre>a</pre></span> elements into the container with <span class="highlight highlight-text-html-basic"><pre>#menu</pre></span></div>
+<div>2. Create a container with an id #menu<div>
+<div>3. Put <&nbsp;a&nbsp;> elements into the container with the id #menu </div>
+<div>Example</div>
+<div class="highlight highlight-text-html-basic">
+<pre>
+
+<div id="menu">
+
+    <a href="#home">Home</a>
+    <a href="#products>Products</a>
+
+<div>
+
+</pre>
+</div>
 <br>
 
 <div>Incorporate the menuScroll.js and initalize menuScroll on the element with id menu.</div>
