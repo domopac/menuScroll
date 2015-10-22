@@ -13,12 +13,12 @@
 <div class="highlight highlight-text-html-basic">
 <pre>
 
-<div id="menu">
+< <span class="pl-ent">div</span> <span class="pl-e">id</span><span>="menu"</span> >
 
-    <a href="#home">Home</a>
-    <a href="#products">Products</a>
+    < <span class="pl-ent">a</span> <span class="pl-e">href</span> <span>="#home"</span> > Home < <span class="pl-ent">/a <span> >
+    < <span class="pl-ent">a</span> <span class="pl-e">href</span> <span>="#products"</span> > Products < <span class="pl-ent">/a <span> >
 
-</div>
+< <span class="pl-ent">/div </span> >
 
 </pre>
 </div>
