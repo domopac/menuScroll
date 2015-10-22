@@ -2,13 +2,13 @@
 
 <div>menuScroll is a simple plugin to scroll smoth to an id.</div>
 
-<div>Required is incorpoate jQuery and a container with the id menu with a elements in it.</div>
+<div>Required is to incorporate jQuery and create a container with the id menu with a elements in it.</div>
 
 <div>Incorporate the menuScroll.js and initalize menuScroll on the element with id menu</div>
 
 <div>Example:</div>
 
-<code class="highlight highlight-text-html-basic">
+<div class="highlight highlight-text-html-basic">
 
 $(document).ready(function() {
 	
@@ -18,7 +18,7 @@ $(document).ready(function() {
                 
             });
 
-</code>
+</div>
 
 <div>There are 4 parameters that animateScroll accepts:</div>
 
@@ -32,7 +32,7 @@ $(document).ready(function() {
 <div>An example of an initialisation with all parameters:</div>
 
 
-<code class="highlight highlight-text-html-basic">
+<div class="highlight highlight-text-html-basic">
 
 $(document).ready(function() {
 	
@@ -45,7 +45,7 @@ $(document).ready(function() {
                 
             });
 
-</code>
+</div>
 
 <div>Meaning of parameters:</div>
 
