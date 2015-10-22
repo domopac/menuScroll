@@ -8,13 +8,13 @@
 
 <div>Example:</div>
 
-<code>$(document).ready(function() {<br>
-	<br>
-                $("#menu").animateScroll( {<br>
-                   <br>
-                });<br>
-                <br>
-            });<br>
+<code class="highlight highlight-text-html-basic">$(document).ready(function() {
+	
+                $("#menu").animateScroll( {
+                    
+                });
+                
+            });
 </code>
 
 <div>There are 4 parameters that animateScroll accepts:</div>
@@ -29,16 +29,16 @@
 <div>An example of an initialisation with all parameters:</div>
 
 
-<code>$(document).ready(function() {<br>
-	<br>
-                $("#menu").animateScroll( {<br>
-                    duration: "600",<br>
-                    ease: "linear",<br>
-                    offset: "20",<br>
-                    callback: function() {alert("this is the callback function");}<br>
-                });<br>
-                <br>
-            });<br>
+<code class="highlight highlight-text-html-basic">$(document).ready(function() {
+	
+                $("#menu").animateScroll( {
+                    duration: "600",
+                    ease: "linear",
+                    offset: "20",
+                    callback: function() {alert("this is the callback function");}
+                });
+                
+            });
 </code>
 
 <div>Meaning of parameters:</div>
