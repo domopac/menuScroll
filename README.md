@@ -16,7 +16,7 @@
 <div id="menu">
 
     <a href="#home">Home</a>
-    <a href="#products>Products</a>
+    <a href="#products">Products</a>
 
 </div>
 
