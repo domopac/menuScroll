@@ -9,7 +9,7 @@
 <div>1. Incorporate jQuery </div>
 <div>2. Create a container with an id #menu<div>
 <div>3. Put <&nbsp;a&nbsp;> elements into the container with the id #menu </div>
-<div>Example</div>
+<div>Example:</div>
 <div class="highlight highlight-text-html-basic">
 <pre>
 
@@ -18,7 +18,7 @@
     <a href="#home">Home</a>
     <a href="#products>Products</a>
 
-<div>
+</div>
 
 </pre>
 </div>
